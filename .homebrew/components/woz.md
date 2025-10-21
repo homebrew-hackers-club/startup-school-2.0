@@ -1,9 +1,6 @@
 ---
 title: Woz
 description: How to add interaction with woz to your content
-tags:
-  - homebrew
-  - woz
 ---
 
 

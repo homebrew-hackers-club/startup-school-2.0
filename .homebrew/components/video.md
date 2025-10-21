@@ -1,9 +1,6 @@
 ---
 title: Video
 description: How to add a video to your content
-tags:
-  - homebrew
-  - video
 ---
 
 

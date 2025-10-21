@@ -1,9 +1,6 @@
 ---
 title: Creating guides on Homebrew with Cursor
 description: How to create a new guide on homebrew using cursor
-tags:
-  - homebrew
-  - cursor
 ---
 
 
